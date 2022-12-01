@@ -1,10 +1,11 @@
-define Transform interface (copy from slides)
+define Transform interface
+ -just copy from slides
 
-write CaseChangeTransform class
+write CaseChangeTransform class (Clay)
 
-write ReverseStringTransform class
+write ReverseStringTransform class (Giana)
 
-write CharacterShiftTransform class
+write CharacterShiftTransform class (Luis)
  -different forward and reverse transformations
  -a little harder than others
  
