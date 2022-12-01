@@ -1,0 +1,18 @@
+define Transform interface (copy from slides)
+
+write CaseChangeTransform class
+
+write ReverseStringTransform class
+
+write CharacterShiftTransform class
+ -different forward and reverse transformations
+ -a little harder than others
+ 
+write Transformer class (seems difficult?)
+
+write TransformerDriver class
+
+write Unit tests
+ -all can do this
+ 
+write TransformationException class
