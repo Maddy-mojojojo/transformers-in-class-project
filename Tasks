@@ -9,7 +9,8 @@ write CharacterShiftTransform class (Luis)
  -different forward and reverse transformations
  -a little harder than others
  
-write Transformer class (seems difficult?)
+write Transformer class
+ -seems difficult?
 
 write TransformerDriver class
 
