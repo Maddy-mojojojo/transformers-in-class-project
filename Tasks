@@ -14,7 +14,7 @@ write Transformer class
 
 write TransformerDriver class
 
-write Unit tests
- -all can do this
+write Unit tests (all)
+ -do this for the class you wrote
  
 write TransformationException class
