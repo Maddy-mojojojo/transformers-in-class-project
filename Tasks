@@ -1,15 +1,15 @@
-define Transform interface
+define Transform interface (Bilge)
  -just copy from slides
 
 write CaseChangeTransform class (Clay)
 
-write ReverseStringTransform class (Giana)
+write ReverseStringTransform class
 
 write CharacterShiftTransform class (Luis)
  -different forward and reverse transformations
  -a little harder than others
  
-write Transformer class
+write Transformer class (Giana)
  -seems difficult?
 
 write TransformerDriver class
