@@ -3,7 +3,7 @@ define Transform interface (Bilge)
 
 write CaseChangeTransform class (Clay)
 
-write ReverseStringTransform class
+write ReverseStringTransform class (Bilge)
 
 write CharacterShiftTransform class (Luis)
  -different forward and reverse transformations
@@ -12,9 +12,9 @@ write CharacterShiftTransform class (Luis)
 write Transformer class (Giana)
  -seems difficult?
 
-write TransformerDriver class
+write TransformerDriver class (Maddy?)
 
 write Unit tests (all)
  -do this for the class you wrote
  
-write TransformationException class
+write TransformationException class (Maddy?)
